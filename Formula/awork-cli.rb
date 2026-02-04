@@ -1,4 +1,4 @@
-class Awork < Formula
+class AworkCli < Formula
   desc "Token-only, swagger-driven CLI for awork"
   homepage "https://github.com/awork-io/awork-cli"
   version "0.3.3"
